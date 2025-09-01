@@ -7,5 +7,4 @@ Il propose un système clair de commandes pour tous les utilisateurs, avec des o
 
 ---
 ## 📸 Aperçu
----
- ![VocalMaster Aperçu](<img width="660" height="419" alt="image" src="https://github.com/user-attachments/assets/a1b1d6a8-4f2c-4546-a4f6-2d2dc0aad126" />)
+<img width="660" height="419" alt="image" src="https://github.com/user-attachments/assets/21ddce8c-6114-486a-aa63-a9537c24306a" />
